@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <link rel="shortcut icon" href="internet (1).png" type="image/x-icon">
+    <title>Redes</title>
+</head>
+<body>
+   <header> 
+        <nav>
+            <a href="index.html">Bit e Bytes</a>
+            <a href="redes">Redes</a>
+            <a href="nets">Nets</a>
+        </nav>
+    </header>
+    
+    <main>
+        <h1>Redes</h1>
+    </main>
+</body>
+</html>
