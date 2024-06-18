@@ -6,7 +6,7 @@ body{
 header nav {
     text-align: center;
     display: flex;
-    justify-content: space-around ;
+    justify-content: space-evenly ;
     align-items: center;
     background-color: #E9EAEC;
     height: 50px;
